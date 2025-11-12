@@ -1,0 +1,28 @@
+{
+  "reviews": [
+    {
+      "name": "Ayesha K.",
+      "rating": 5,
+      "date": "2025-10-02",
+      "comment": "Super fast delivery and the product quality is excellent!"
+    },
+    {
+      "name": "Rafi H.",
+      "rating": 4,
+      "date": "2025-09-20",
+      "comment": "Great value for money. Cart and coupon worked smoothly."
+    },
+    {
+      "name": "Nadia S.",
+      "rating": 5,
+      "date": "2025-08-14",
+      "comment": "Love the UI! Dark mode is \ud83d\udd25"
+    },
+    {
+      "name": "Tanvir R.",
+      "rating": 3,
+      "date": "2025-07-03",
+      "comment": "Product was okay, shipping took a bit longer."
+    }
+  ]
+}
